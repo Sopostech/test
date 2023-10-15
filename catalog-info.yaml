@@ -4,6 +4,7 @@ metadata:
   name: test
   annotations:
     github.com/project-slug: Sopostech/test
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
